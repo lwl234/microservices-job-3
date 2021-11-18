@@ -1,2 +1,2 @@
-# html js rest client
-A sample rest client
+load REST API 
+URL:  https://jsonplaceholder.typicode.com/users 
